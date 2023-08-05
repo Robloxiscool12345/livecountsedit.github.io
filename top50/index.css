@@ -1,8 +1,8 @@
 /* #f7f5fe */
 @font-face {
-  font-family: 'Roboto';
+  font-family: 'Proxima Nova';
   font-style: normal;
-  font-weight: 400;
+  font-weight: 7000;
   src: url(..fonts/Roboto-Regular.ttf) format('truetype');
 }
 
@@ -75,7 +75,8 @@ body {
 .selected {
     background-color: #ccc;
     transition: color 2s;
-    border: solid 1px red;
+    border: solid 1px blue
+  ;
 }
 
 .slidecontainer {
